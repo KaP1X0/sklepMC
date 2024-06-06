@@ -45,7 +45,7 @@ header nav ul li a {
 
 /* Styl dla sekcji hero */
 .hero {
-  background-image: url('img/hero.png'); /* Dodaj ścieżkę do Twojego tła */
+  background-image: url('hero.png'); /* Dodaj ścieżkę do Twojego tła */
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -311,7 +311,7 @@ footer p {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background: url('img/lava.gif') center center fixed;
+  background: url('lava.gif') center center fixed;
   background-size: cover;
   animation: glow 5s infinite alternate;
 }
